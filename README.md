@@ -1,5 +1,3 @@
-<img src = "banner.webp" width = "200px" align = "right">
-
 ## Welcome to my GitHub 🚀
   <div id="badges">
   <a href = "https://www.linkedin.com/in/pedro-bonifácio-580b78325/">
