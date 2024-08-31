@@ -1,6 +1,6 @@
-<img src = "banner.webp" width = "175px" align = "right">
+<img src = "banner.webp" width = "200px" align = "right">
 
-## Welcome 👋
+## Welcome to my GitHub 🚀
   <div id="badges">
   <a href = "https://www.linkedin.com/in/pedro-bonifácio-580b78325/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -22,7 +22,7 @@ Currently a student in Computer Science going through a lot of theory and mathem
 
 ---
 
-<div align = "left">
+<div align = "center">
 <img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroCBonifacio&show_icons=true&theme=bear&count_private=true"/>
 <img height = "200em" src="https://github-readme-stats.vercel.app/api?username=PedroCBonifacio&show_icons=true&show_icons=true&theme=bear&count_private=true" />
 </div>
