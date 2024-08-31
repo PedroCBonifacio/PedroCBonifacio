@@ -1,4 +1,4 @@
-<img src = "banner.webp" width = "100px" align = "right">
+<img src = "banner.webp" width = "175px" align = "right">
 
 ## Welcome 👋
   <div id="badges">
@@ -18,4 +18,11 @@ Currently a student in Computer Science going through a lot of theory and mathem
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqldeveloper/sqldeveloper-plain.svg" title="SQL" alt="SQL" width="40" height="40"/>&nbsp;
+</div>
+
+---
+
+<div align = "left">
+<img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroCBonifacio&show_icons=true&theme=bear&count_private=true"/>
+<img height = "200em" src="https://github-readme-stats.vercel.app/api?username=PedroCBonifacio&show_icons=true&show_icons=true&theme=bear&count_private=true" />
 </div>
