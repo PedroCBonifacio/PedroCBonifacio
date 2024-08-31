@@ -21,6 +21,6 @@ Currently a student in Computer Science going through a lot of theory and mathem
 ---
 
 <div align = "center">
-<img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroCBonifacio&show_icons=true&theme=bear&count_private=true"/>
-<img height = "200em" src="https://github-readme-stats.vercel.app/api?username=PedroCBonifacio&show_icons=true&show_icons=true&theme=bear&count_private=true" />
+<img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroCBonifacio&show_icons=true&theme=shades-of-purple&count_private=true"/>
+<img height = "200em" src="https://github-readme-stats.vercel.app/api?username=PedroCBonifacio&show_icons=true&show_icons=true&theme=shades-of-purple&count_private=true" />
 </div>
