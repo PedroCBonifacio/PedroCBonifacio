@@ -5,7 +5,7 @@
   </a>
 
 Currently a student in Computer Science going through a lot of theory and mathematics but for sure practicing a lot 😊
-- 🗒️ I’m currently working on Tecs (IME-USP)
+- 🗒️ I’m currently working on iFood & Tecs (IME-USP) 
 - 💻 Passionate about Data Science
 - ⌛ Since 2019 exploring the art of computing
 
